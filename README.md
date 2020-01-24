@@ -1,5 +1,5 @@
 ## CS 2400, Lab 2, Git/GitHub
-
+### CS 2400, Section 107
 ### 100 Points
 
 ### Prepared by: David Chelberg (chelberg@ohio.edu)
